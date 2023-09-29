@@ -1,0 +1,56 @@
+leftnav:
+- identifier: f1b3a48a-a28c-aaea-c645-9bdd8a5f0e01
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 32d8f9a1-6934-c8da-f2f1-f36eed278be0
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 2eaf95ad-12c8-6e2e-3d7a-204660a7c169
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 30
+- identifier: ba5338fb-cdf8-7816-e460-976d16788baf
+  name: Introduction
+  pageRef: /pages/readings/introduction
+  parent: 2eaf95ad-12c8-6e2e-3d7a-204660a7c169
+  weight: 40
+- identifier: 6a83b87a-10f3-2a8b-ffe2-7d8a05c28e5b
+  name: "City \u2192 Global Economy"
+  pageRef: /pages/readings/city-2192-global-economy
+  parent: 2eaf95ad-12c8-6e2e-3d7a-204660a7c169
+  weight: 50
+- identifier: 8e742b8e-fb33-350f-812b-5cd1c3e20870
+  name: "Urban Plan \u2192 Map of Operations"
+  pageRef: /pages/readings/urban-plan-2192-map-of-operations
+  parent: 2eaf95ad-12c8-6e2e-3d7a-204660a7c169
+  weight: 60
+- identifier: aa39e9f2-3676-6adb-a30c-9d663de2d32a
+  name: "Program \u2192 Performance"
+  pageRef: /pages/readings/program-2192-performance-relations-effects-atmospheres
+  parent: 2eaf95ad-12c8-6e2e-3d7a-204660a7c169
+  weight: 70
+- identifier: a2d6c41c-89dd-c1a4-7562-216d2e33a090
+  name: "Drawing \u2192 Scripting"
+  pageRef: /pages/readings/drawing-2192-scripting
+  parent: 2eaf95ad-12c8-6e2e-3d7a-204660a7c169
+  weight: 80
+- identifier: c4927399-c8ba-9942-839d-bd1468e806db
+  name: "Image \u2192 Surface"
+  pageRef: /pages/readings/image-2192-surface
+  parent: 2eaf95ad-12c8-6e2e-3d7a-204660a7c169
+  weight: 90
+- identifier: 4f4878c4-02be-bd8b-7f4e-15fa6e269223
+  name: "Utopia \u2192 Projection"
+  pageRef: /pages/readings/utopia-2192-projection
+  parent: 2eaf95ad-12c8-6e2e-3d7a-204660a7c169
+  weight: 100
+- identifier: 068f11ef-1238-da45-4dc9-9062b5f744ba
+  name: Projects
+  pageRef: /pages/projects
+  weight: 110
+- identifier: 5b4e1e2a-ee69-0b9c-c12d-cfd2249305e5
+  name: Presentations
+  pageRef: /pages/presentations
+  weight: 120
