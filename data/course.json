@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural History and Criticism"
+    ]
+  ],
+  "legacy_uid": "c2b08818-536b-33dd-07e1-513b3958c9e0",
+  "instructors": {
+    "content": [
+      "10992fa9-1d12-249d-e4d1-d0ab9843cb74"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c6252e55-7955-4f51-5dd7-00da6b94241a",
+    "website": "4-210-precedents-in-critical-practice-fall-2012"
+  },
+  "course_title": "Precedents in Critical Practice",
+  "course_description": "This course provides students with the opportunity to develop a map of contemporary architectural practice and discourse. The seminar examines six themes in terms of their recent history: city and global economy, urban plan and map of operations, program and performance, drawing and scripting, image and surface, and utopia and projection. Students will study buildings and read relevant texts in order to place recent architectural projects in disciplinary and cultural context.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.210",
+  "course_image_thumbnail": {
+    "content": "de2a65f7-c064-d3fc-4650-a65392289d28",
+    "website": "4-210-precedents-in-critical-practice-fall-2012"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments with Examples"
+  ],
+  "site_uid": "81c37a1c-7636-485a-951b-967be7a460de",
+  "site_short_id": "4.210-fall-2012",
+  "title": "Course Metadata"
+}
